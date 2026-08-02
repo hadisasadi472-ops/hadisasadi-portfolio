@@ -73,12 +73,7 @@ Website:
 https://hadisasadi.com
 
 ## Screenshots
-
-### Homepage
-
 ![Homepage Screenshot](assets/screenshots/homepage.png)
-
-
 
 ## Project Structure
 
