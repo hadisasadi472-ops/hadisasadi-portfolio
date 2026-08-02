@@ -65,7 +65,7 @@ https://hadisasadi.com
 
 ## Screenshots
 ![Homepage Screenshot](assets/screenshots/homepage.png)
-
+![Homepage Screenshot](assets/screenshots/homepage2.png)
 ## Project Structure
 
 portfolio-website/
