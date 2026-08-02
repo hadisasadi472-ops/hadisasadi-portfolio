@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project represents my personal digital presence and serves as a professional platform to showcase my skills, services, and technology journey toward becoming a Digital Solutions Consultant.
+This project represents my personal digital presence and serves as a professional platform to showcase my skills, services, and This project represents my personal digital presence and serves as a professional platform to showcase my skills, services, and solutions as a Digital Solutions Consultant..
 The website combines personal branding, web development, deployment practices, and digital transformation concepts.
 
 ---
@@ -53,6 +53,7 @@ The development process included:
 
 - Defining website structure and requirements
 - Generating and reviewing HTML code
+- Reviewing and modifying generated code
 - Testing website functionality
 - Deploying the website with Netlify
 - Connecting custom domain and configuring DNS
@@ -60,8 +61,7 @@ The development process included:
 
 ## Live Demo
 
-Website:
-https://hadisasadi.com
+[Visit Website](https://hadisasadi.com)
 
 ## Screenshots
 ![Homepage Screenshot](assets/screenshots/homepage.png)
@@ -71,12 +71,23 @@ https://hadisasadi.com
 portfolio-website/
 │
 ├── assets/
-├── css/
-├── js/
 ├── images/
+├── HTML (with embedded CSS)
 ├── index.html
 └── README.md
+
 ---
+## Deployment Architecture
+
+User
+↓
+Custom Domain
+↓
+DNS Configuration
+↓
+Netlify Hosting
+↓
+GitHub Repository
 
 ## Challenges & Solutions
 
