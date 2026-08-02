@@ -19,29 +19,19 @@ The website combines personal branding, web development, deployment practices, a
 
 ## Technologies & Tools
 
-### Frontend
+### Development
 - HTML
-- CSS
-- JavaScript
-
-### Design & Branding
-- Figma
-- UI Design
-- Visual Identity
-
-### CMS & Web Development
-- WordPress
+- AI-assisted development with Claude Code
 
 ### Deployment & Infrastructure
 - Netlify
-- Custom Domain
-- DNS Management
+- Custom Domain Management
+- DNS Configuration
 - SSL Certificate
 
 ### Version Control
 - Git
 - GitHub
-
 ---
 
 ## Features
@@ -55,17 +45,18 @@ The website combines personal branding, web development, deployment practices, a
 
 ---
 
-## Deployment
+## Development Process
 
-The website is deployed using Netlify.
+This project was developed as a static HTML website using an AI-assisted workflow.
 
-Deployment process included:
+The development process included:
 
-- Connecting GitHub repository
-- Configuring deployment settings
-- Connecting custom domain
-- Managing DNS records
-- Enabling SSL certificate
+- Defining website structure and requirements
+- Generating and reviewing HTML code
+- Testing website functionality
+- Deploying the website with Netlify
+- Connecting custom domain and configuring DNS
+- Managing project files with GitHub
 
 ## Live Demo
 
