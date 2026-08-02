@@ -74,7 +74,9 @@ https://hadisasadi.com
 
 ## Screenshots
 
-![Uploading image.png…]()
+### Homepage
+
+![Homepage Screenshot](assets/screenshots/homepage.png)
 
 
 
