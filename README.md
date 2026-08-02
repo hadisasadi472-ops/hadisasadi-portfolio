@@ -1,10 +1,9 @@
-# Digital Portfolio Website
+# Personal Portfolio Website | Digital Solutions Consultant
 
 ## Overview
 
-This project is my personal portfolio website created to build my digital presence and showcase my journey as a Digital Solutions Consultant.
-
-The goal of this project is to create a professional online identity, present my services, and demonstrate my skills in web development, digital transformation, and technology solutions.
+This project represents my personal digital presence and serves as a professional platform to showcase my skills, services, and technology journey toward becoming a Digital Solutions Consultant.
+The website combines personal branding, web development, deployment practices, and digital transformation concepts.
 
 ---
 
@@ -20,12 +19,28 @@ The goal of this project is to create a professional online identity, present my
 
 ## Technologies & Tools
 
-- HTML / CSS / JavaScript
-- WordPress / Web Design
-- Figma (UI Design & Branding)
-- Netlify (Deployment)
-- Custom Domain Management
-- Git & GitHub
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Design & Branding
+- Figma
+- UI Design
+- Visual Identity
+
+### CMS & Web Development
+- WordPress
+
+### Deployment & Infrastructure
+- Netlify
+- Custom Domain
+- DNS Management
+- SSL Certificate
+
+### Version Control
+- Git
+- GitHub
 
 ---
 
@@ -52,6 +67,78 @@ Deployment process included:
 - Managing DNS records
 - Enabling SSL certificate
 
----
+## Live Demo
+
+Website:
+https://hadisasadi.com
+
+## Screenshots
+
+![Uploading image.png…]()
+
+
 
 ## Project Structure
+
+portfolio-website/
+│
+├── assets/
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
+---
+
+## Challenges & Solutions
+
+### Challenge 1: Domain Configuration
+
+Problem:
+Connecting custom domain with hosting platform.
+
+Solution:
+Configured DNS records and verified domain settings.
+
+---
+
+### Challenge 2: Deployment Process
+
+Problem:
+Moving website from local environment to production.
+
+Solution:
+Used Netlify deployment workflow and tested website accessibility.
+
+---
+
+## Lessons Learned
+
+Through this project I improved my understanding of:
+
+- Website deployment lifecycle
+- Domain and DNS management
+- Version control with GitHub
+- Digital branding
+- Building professional online presence
+
+---
+
+## Future Improvements
+
+- Add blog section
+- Add case studies
+- Improve SEO
+- Add AI-powered features
+- Connect analytics tools
+
+---
+
+## Author
+
+Hadis Asadi
+
+Digital Solutions Consultant
+
+Focus:
+Cloud | AI | Digital Transformation
